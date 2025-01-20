@@ -1,7 +1,8 @@
 .home-page {
-  background-image: url("/img/c4.jpg");
+  background-image: url("/img/c2.jpg");
   background-size: cover;
   background-position: center;
+  color: #fff;
 }
 header {
   height: 70px;
