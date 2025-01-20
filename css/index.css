@@ -1,0 +1,29 @@
+.home-page {
+  background-image: url("/img/c4.jpg");
+  background-size: cover;
+  background-position: center;
+}
+header {
+  height: 70px;
+  color: #fff;
+}
+.active {
+  background-color: #f01c1c;
+}
+
+.nav-link {
+  color: #fff;
+}
+.home-page-content {
+  height: calc(100vh - 120px);
+}
+.home-page-content h1 {
+  font-size: 80px;
+  color: #fff;
+}
+.home-page-content .btn {
+  width: 150px;
+}
+.btn-box {
+  height: 60px;
+}
