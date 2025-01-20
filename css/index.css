@@ -27,3 +27,18 @@ header {
 .btn-box {
   height: 50px;
 }
+.text-content-2 h3 {
+  font-size: 30px;
+}
+.p22 {
+  font-size: 25px;
+  font-weight: normal;
+}
+.img-box {
+  height: 350px;
+}
+.img-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
